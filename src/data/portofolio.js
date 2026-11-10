@@ -4,7 +4,7 @@ import {
   FaEnvelope,
   FaGithub,
   FaInstagram,
-  FaLinkedinIn,
+  FaFacebook,
   FaWhatsapp,
 } from "react-icons/fa6";
 
@@ -114,6 +114,14 @@ export const socials = [
     // mailto: → membuka aplikasi email pengunjung dengan alamat tujuan terisi otomatis
     url: "mailto:fitrianingsih54@guru.smk.belajar.id",
     icon: FaEnvelope,
+    color: "group-hover:bg-brand",
+  },
+   {
+    label: "Facebook",
+    handle: "Fitria Ningsih",
+    // mailto: → membuka aplikasi email pengunjung dengan alamat tujuan terisi otomatis
+    url: "https://www.facebook.com/fitria.ciku/",
+    icon: FaFacebook,
     color: "group-hover:bg-brand",
   },
 ];
