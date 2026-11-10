@@ -78,7 +78,7 @@ export const projects = [
     category: "Curriculum",
     tags: ["STEM", "Kurikulum Merdeka", "Grades 7–8"],
     link: "#",
-    image: "/src/assets/porto1.png",
+    image: "src/assets/porto1.png",
     color: "from-blue-500 to-cyan-400",
   },
 ]
