@@ -48,14 +48,13 @@ export const skills = [
     items: [
       "Teacher Training",
       "Facilitation",
-      "Intructional Design",
     ],
   }, 
   {
     title : "Technology",
     description: "Hands-on with the technologies i teach and build learning around.",
     items: [
-      "JavaScript",
+      "JavaScript","Java", "SQL"
     ],
   }, 
   {
@@ -64,7 +63,8 @@ export const skills = [
     items: [
       "Canva",
       "Google Drive",
-      "Laragon"
+      "Laragon",
+      "Draw.io"
     ],
   }, 
 ]
@@ -78,7 +78,7 @@ export const projects = [
     category: "Curriculum",
     tags: ["STEM", "Kurikulum Merdeka", "Grades 7–8"],
     link: "#",
-    image: "/projects/stem-smp.jpg",
+    image: "/src/assets/porto1.png",
     color: "from-blue-500 to-cyan-400",
   },
 ]
