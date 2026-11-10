@@ -72,13 +72,35 @@ export const skills = [
 export const projects = [
   {
     id: 1,
-    title: "Integrated STEM Program for Junior High",
+    title: "Bahan Ajar Basis Data",
     description:
-      "A one-year STEM program for Grades 7–8 with 10 hands-on projects structured around the Engineering Design Process.",
-    category: "Curriculum",
-    tags: ["STEM", "Kurikulum Merdeka", "Grades 7–8"],
-    link: "#",
-    image: "/porto1.png",
+      "Modul ajar yang digunakan dalam pembelajaran",
+    category: "Education",
+    tags: ["Basis Data", "ERD", "SQL", "Data", "Tipe Data", "Skema Relasi", "Kamus Data", "XI PPLG"],
+    link: "https://drive.google.com/file/d/1fXFTP4RmwIz3Azchr8snRGgDjD4GjVgY/view?usp=drive_link",
+    image: "/COVERBASISDATA.jpg",
+    color: "from-blue-500 to-cyan-400",
+  },
+  {
+    id: 2,
+    title: "Bahan Ajar DPPLG 4",
+    description:
+      "Modul ajar yang digunakan dalam pembelajaran",
+    category: "Education",
+    tags: ["Sistem Komputer", "Sistem Bilangan", "Biner", "Heksadesimal", "Desimal", "Oktal", "Flowchart", "Algoritma", "X PPLG"],
+    link: "https://drive.google.com/file/d/1gGAaVf5eta8LGDpG1gScKsf7vK1pSLZK/view?usp=drive_link",
+    image: "/COVERDPPLG4.jpg",
+    color: "from-blue-500 to-cyan-400",
+  },
+   {
+    id: 3,
+    title: "Bahan Ajar PPL",
+    description:
+      "Modul ajar yang digunakan dalam pembelajaran",
+    category: "Education",
+    tags: ["Flowmap", "Activity Diagram", "Usecase", "Usecase Skenario", "XI PPLG"],
+    link: "https://drive.google.com/file/d/1aCOlOVDZt9MmGt18u-9WuB4hcLkOWdGx/view?usp=drive_link",
+    image: "/COVERPPL.jpg",
     color: "from-blue-500 to-cyan-400",
   },
 ]
